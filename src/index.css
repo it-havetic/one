@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.text-custom {
+  @apply text-2xl leading-31.2 mt-5 text-custom-light font-normal;
+}

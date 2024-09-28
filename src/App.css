@@ -1,0 +1,28 @@
+.text-gradient_orange {
+  background: linear-gradient(90deg, #ff7170 -50.34%, #ffe57f 100.78%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent; /* This ensures the text is transparent, revealing the gradient */
+}
+
+.base-semibold {
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 50.2px;
+}
+
+
+.text-gradient_blue {
+  background: linear-gradient(90deg,#4c73ff 2.34%,#389bff 100.78%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent; /* This ensures the text is transparent, revealing the gradient */
+}
+
+
+.base-semibold-heading {
+  font-size: 24px; /* Adjust as needed */
+  font-weight: 600; /* Adjust as needed */
+  line-height: 31.2px; /* Adjust as needed */
+}
+
